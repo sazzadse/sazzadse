@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Selim Ahmed. Nice to see you.👋</h2>
+<h2 align="center">Hi, I'm Md. Sazzad Hossain. Nice to see you.👋</h2>
 <h4 align="center">Experienced Full Stack .NET Developer, passionate about building innovative and efficient solutions for digital transformation.</h4>
 <br />
 <div align="center">
@@ -36,11 +36,11 @@
 
 <br />
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aronno1920&label=Profile%20views&color=brightgreen&style=flat" alt="Aronno1920" />
-  <img src="https://badges.pufler.dev/years/Aronno1920" alt="Years Badge">
-  <img src="https://badges.pufler.dev/repos/Aronno1920" alt="Repos Badge">
-  <img src="https://badges.pufler.dev/gists/Aronno1920" alt="Gists Badge">
-  <img src="https://badges.pufler.dev/commits/yearly/Aronno1920" alt="Commits Badge">
+  <img src="https://komarev.com/ghpvc/?username=sazzadse&label=Profile%20views&color=brightgreen&style=flat" alt="sazzadse" />
+  <img src="https://badges.pufler.dev/years/sazzadse" alt="Years Badge">
+  <img src="https://badges.pufler.dev/repos/sazzadse" alt="Repos Badge">
+  <img src="https://badges.pufler.dev/gists/sazzadse" alt="Gists Badge">
+  <img src="https://badges.pufler.dev/commits/yearly/sazzadse" alt="Commits Badge">
 </div>
 
 <br />
@@ -59,28 +59,28 @@
     🤝  I'm open to collaborating on Projects
   </li>
   <li>
-    ✉️  You can contact me at <a href="mailto:aronno1920@hotmail.com">aronno1920@hotmail.com</a>
+    ✉️  You can contact me at <a href="mailto:sazzad.se@gmail.com">sazzad.se@gmail.com</a>
   </li>
 </ul>
 
 <h2>Profile Analysis</h2>
 <p align="center">
-      <a href="https://github.com/aronno1920#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronno1920&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
+      <a href="https://github.com/sazzadse#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazzadse&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
     </a>
 </p>
 <p align="center">
-      <a href="https://github.com/aronno1920#gh-dark-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aronno1920&hide_border=true&theme=dark" alt="aronno1920" />
+      <a href="https://github.com/sazzadse#gh-dark-mode-only">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazzadse&hide_border=true&theme=dark" alt="sazzadse" />
     </a>
 </p>
 
 <h2>Where to find me</h2>
 
 [![Website](https://img.shields.io/badge/SysExpo-Online-green)](https://sysexpo.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aronno1920/) 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/aronno1920)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Aronno1920)
-[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/aronno1920)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sazzadse/) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/sazzadse)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/sazzadse)
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/sazzadse)
 
 
