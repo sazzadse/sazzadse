@@ -52,14 +52,24 @@
   </li>
 </ul>
 
-## Profile Analysis
-
+<h2>Profile Analysis</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazzadse&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
+      <a href="https://github.com/sazzadse">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazzadse&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
+    </a>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazzadse&hide_border=true&theme=dark" alt="GitHub Streak"/>
+  <a href="https://github.com/sazzadse">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sazzadse&theme=dark&hide_border=true&hide_title=true" alt="GitHub Profile Summary">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/sazzadse">
+    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=sazzadse&show_icons=true&hide_border=true&hide_title=true&theme=dark" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/sazzadse">
+    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=sazzadse&hide_border=true&theme=dark" alt="sazzadse" />
+  </a>
 </p>
 
 
