@@ -44,11 +44,11 @@ Currently working at Orion Group where I contribute across the full software dev
 
 Previously I worked at Avalanche Technologies where I helped develop ERP solutions for pharmaceutical, manufacturing, retail, and government clients.
 
-🌍 I'm based in Dhaka, Bangladesh. 
-🌱 Passionate about clean architecture, scalable system design, and performance optimization.
-👯 Open to work opportunities (remote or relocation). 
-🤝 Open to collaborating on interesting projects.
-✉️ Contact me: sazzad.se@gmail.com
+🌍 Based in Dhaka, Bangladesh  
+🌱 Passionate about Clean Architecture, scalable system design & performance optimization  
+👯 Open to work opportunities (remote or relocation)  
+🤝 Open to collaborating on exciting projects  
+✉️ Contact: [sazzad.se@gmail.com](mailto:sazzad.se@gmail.com)
 
 
 ## 🛠️ Tech Stack
