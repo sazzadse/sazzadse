@@ -33,46 +33,6 @@
 </div>
 
 <br />
-<p>System Analyst with 6+ years of experience in developing scalable and reliable software solutions using Full Stack .NET technologies. Skilled in leading project teams, collaborating with stakeholders, and delivering results that exceed customer expectations. Proficient in C#, ASP.NET, MVC, Web API, .Net Core, Angular, MSSQL Server, PostgreSQL, MongoDB, GitHub, etc. Committed to continuous learning and professional growth to stay up-to-date with the latest trends and technologies in the field.</p>
-<ul>
-  <li>
-    🌍  I'm based in Dhaka, Bangladesh
-  </li>
-  <li>
-    🌱 I’m currently learning many things like Microservices, Clean architecture, and NGINX, I believe that every day is a learning opportunity. 
-  </li>
-  <li>
-    👯 I’m currently open for work and employment opportunities (remote and relocation)
-  </li>
-  <li>
-    🤝  I'm open to collaborating on Projects
-  </li>
-  <li>
-    ✉️  You can contact me at <a href="mailto:sazzad.se@gmail.com">sazzad.se@gmail.com</a>
-  </li>
-</ul>
-
-
-## 👨‍💻 About Me
-
-I’m a **Senior Software Engineer and .NET Full-Stack Developer** with **7+ years of experience** in designing and developing scalable enterprise-grade ERP and business applications.
-
-I specialize in **C#, ASP.NET MVC/Core, MSSQL, Entity Framework, and LINQ**, and also work with modern frontend technologies like **Angular, JavaScript, and Bootstrap** to deliver complete end-to-end solutions.
-
-Currently working at **Orion Group**, where I contribute across the full software development lifecycle, developing internal enterprise systems such as **Employee Appraisal Systems, Final Settlement Solutions, Circular Management Systems, and Employee Portals**.
-
-Previously, I worked at **Avalanche Technologies**, where I helped develop ERP solutions for **pharmaceutical, manufacturing, retail, and government organizations**, strengthening my experience in large-scale and business-critical systems.
-
-I am passionate about **clean architecture, scalable system design, and performance optimization**, and I am committed to continuous learning and professional growth.
-
----
-
-🌍 I'm based in **Dhaka, Bangladesh**  
-🌱 Currently learning **Microservices, Clean Architecture, and NGINX**  
-👯 Open to **work opportunities (remote or relocation)**  
-🤝 Open to **collaborating on interesting projects**  
-✉️ Contact me: **sazzad.se@gmail.com**
-
 ## 👨‍💻 About Me
 
 I’m a Senior Software Engineer and .NET Full-Stack Developer with over 7+ years of experience in designing and developing enterprise-grade ERP and business applications.
@@ -85,6 +45,11 @@ Previously I worked at Avalanche Technologies where I helped develop ERP solutio
 
 I am passionate about clean architecture, scalable system design, and performance optimization.
 
+🌍 I'm based in **Dhaka, Bangladesh**  
+🌱 Currently learning **Microservices, Clean Architecture, and NGINX**  
+👯 Open to **work opportunities (remote or relocation)**  
+🤝 Open to **collaborating on interesting projects**  
+✉️ Contact me: **sazzad.se@gmail.com**
 ---
 
 ## 🛠️ Tech Stack
