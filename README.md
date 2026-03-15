@@ -125,10 +125,7 @@ Previously I worked at Avalanche Technologies where I helped develop ERP solutio
 - Employee Search Portal
 - Client Websites & eCommerce Platforms
 
-
-
-
-
+---
 
 <h2>Profile Analysis</h2>
 <p align="center">
