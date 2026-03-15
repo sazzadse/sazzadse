@@ -52,6 +52,109 @@
   </li>
 </ul>
 
+
+
+
+# Hi, I'm Sazzad Hossain 👋
+
+💻 Senior Software Engineer | .NET Full-Stack Developer  
+📍 Bangladesh  
+🚀 7+ years of experience in building enterprise-grade ERP and business applications.
+
+---
+
+## 👨‍💻 About Me
+
+I’m a Senior Software Engineer and .NET Full-Stack Developer with over 7+ years of experience in designing and developing enterprise-grade ERP and business applications.
+
+I specialize in C#, ASP.NET MVC/Core, MSSQL, Entity Framework, and LINQ, and also work with modern frontend technologies like Angular, JavaScript, and Bootstrap to deliver complete end-to-end solutions.
+
+Currently working at Orion Group where I contribute across the full software development lifecycle, developing internal enterprise systems such as employee appraisal systems, final settlement solutions, circular management systems, and employee portals.
+
+Previously I worked at Avalanche Technologies where I helped develop ERP solutions for pharmaceutical, manufacturing, retail, and government clients.
+
+I am passionate about clean architecture, scalable system design, and performance optimization.
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+- C#
+- ASP.NET MVC
+- ASP.NET Core
+- ASP.NET Web Forms
+
+**Database**
+- Microsoft SQL Server
+- Advanced T-SQL
+- Stored Procedures
+
+**ORM**
+- Entity Framework
+- LINQ
+
+**Frontend**
+- Angular
+- JavaScript
+- jQuery
+- HTML5
+- CSS3
+- Bootstrap
+
+**Tools & Technologies**
+- Crystal Reports
+- REST APIs
+- Git & GitHub
+- Visual Studio
+- Azure Fundamentals
+
+---
+
+## 🏢 Professional Experience
+
+### Senior Software Engineer  
+**Orion Group**
+
+- Developed enterprise internal systems including:
+- Employee Appraisal System
+- Final Settlement System
+- Circular Management System
+- Employee Search Portal
+- Contributed across the full Software Development Lifecycle (SDLC).
+
+### Software Engineer / Senior Software Engineer  
+**Avalanche Technologies Ltd.**
+
+- Developed enterprise ERP systems for:
+- Pharmaceuticals
+- Manufacturing
+- Retail
+- Government organizations
+
+### Client Executive  
+**Getweb Inc.**
+
+- Worked with international clients
+- Managed project requirements and client communication
+- Projects included eCommerce sites, business websites, and affiliate platforms.
+
+---
+
+## 📦 Key Projects
+
+- Enterprise ERP Systems
+- Employee Appraisal System
+- Final Settlement System
+- Circular Management System
+- Employee Search Portal
+- Client Websites & eCommerce Platforms
+
+
+
+
+
+
 <h2>Profile Analysis</h2>
 <p align="center">
       <a href="https://github.com/sazzadse">
