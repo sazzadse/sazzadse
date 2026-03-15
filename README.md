@@ -50,6 +50,7 @@ Previously I worked at Avalanche Technologies where I helped develop ERP solutio
 🤝 Open to collaborating on exciting projects.    
 ✉️ Contact: [sazzad.se@gmail.com](mailto:sazzad.se@gmail.com)
 
+---
 
 ## 🛠️ Tech Stack
 
