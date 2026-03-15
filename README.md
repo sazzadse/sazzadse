@@ -53,28 +53,7 @@
 </ul>
 
 
-## 👨‍💻 About Me
-
-I’m a **Senior Software Engineer and .NET Full-Stack Developer** with **7+ years of experience** in designing and developing scalable enterprise-grade ERP and business applications.
-
-I specialize in **C#, ASP.NET MVC/Core, MSSQL, Entity Framework, and LINQ**, and also work with modern frontend technologies like **Angular, JavaScript, and Bootstrap** to deliver complete end-to-end solutions.
-
-Currently working at **Orion Group**, where I contribute across the full software development lifecycle, developing internal enterprise systems such as **Employee Appraisal Systems, Final Settlement Solutions, Circular Management Systems, and Employee Portals**.
-
-Previously, I worked at **Avalanche Technologies**, where I helped develop ERP solutions for **pharmaceutical, manufacturing, retail, and government organizations**, strengthening my experience in large-scale and business-critical systems.
-
-I am passionate about **clean architecture, scalable system design, and performance optimization**, and I am committed to continuous learning and professional growth.
-
----
-
-🌍 I'm based in **Dhaka, Bangladesh**  
-🌱 Currently learning **Microservices, Clean Architecture, and NGINX**  
-👯 Open to **work opportunities (remote or relocation)**  
-🤝 Open to **collaborating on interesting projects**  
-✉️ Contact me: **sazzad.se@gmail.com**
-
-
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I’m a Senior Software Engineer and .NET Full-Stack Developer with over 7+ years of experience in designing and developing enterprise-grade ERP and business applications.
 
