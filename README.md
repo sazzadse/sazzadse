@@ -1,8 +1,8 @@
 <h2 align="center">Hi, I'm Md. Sazzad Hossain. Nice to see you.👋</h2>
 <h4 align="center">Experienced .NET Full-Stack Developer passionate about building scalable enterprise applications and driving digital transformation.</h4>
 <br />
-
 <div align="center">
+
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?logo=dotnet&logoColor=white)
@@ -22,8 +22,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 </div>
-<br />
 
+<br />
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sazzadse&label=Profile%20views&color=brightgreen&style=flat" alt="sazzadse" />
   <img src="https://badges.pufler.dev/years/sazzadse" alt="Years Badge">
@@ -31,8 +31,8 @@
   <img src="https://badges.pufler.dev/gists/sazzadse" alt="Gists Badge">
   <img src="https://badges.pufler.dev/commits/yearly/sazzadse" alt="Commits Badge">
 </div>
-<br />
 
+<br />
 <p>System Analyst with 6+ years of experience in developing scalable and reliable software solutions using Full Stack .NET technologies. Skilled in leading project teams, collaborating with stakeholders, and delivering results that exceed customer expectations. Proficient in C#, ASP.NET, MVC, Web API, .Net Core, Angular, MSSQL Server, PostgreSQL, MongoDB, GitHub, etc. Committed to continuous learning and professional growth to stay up-to-date with the latest trends and technologies in the field.</p>
 <ul>
   <li>
