@@ -111,7 +111,7 @@ Previously I worked at Avalanche Technologies where I helped develop ERP solutio
 **Getweb Inc.**
 
 - Worked with international clients
-- Managed project requirements and client communication
+- Managed project requirements and client communication.
 - Projects included eCommerce sites, business websites, and affiliate platforms.
 
 ---
