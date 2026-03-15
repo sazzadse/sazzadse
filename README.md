@@ -148,8 +148,9 @@ Previously I worked at Avalanche Technologies where I helped develop ERP solutio
   </a>
 </p>
 
+---
 
-<h2>Where to find me</h2>
+## 🌐 Connect With Me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sazzadse/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/sazzad.hossain.900)
