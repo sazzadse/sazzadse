@@ -47,9 +47,13 @@ Previously I worked at Avalanche Technologies where I helped develop ERP solutio
 I am passionate about clean architecture, scalable system design, and performance optimization.
 
 🌍 I'm based in Dhaka, Bangladesh. 
+
 🌱 Currently learning Microservices, Clean Architecture, and NGINX
-👯 Open to work opportunities (remote or relocation).  
+
+👯 Open to work opportunities (remote or relocation). 
+
 🤝 Open to collaborating on interesting projects.
+
 ✉️ Contact me: **sazzad.se@gmail.com**
 
 
