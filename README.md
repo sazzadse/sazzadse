@@ -127,7 +127,7 @@ Previously I worked at Avalanche Technologies where I helped develop ERP solutio
 
 ---
 
-## 📦 Profile Analysis
+## 💼 Profile Analysis
 
 <p align="center">
       <a href="https://github.com/sazzadse">
