@@ -128,6 +128,7 @@ Previously I worked at Avalanche Technologies where I helped develop ERP solutio
 ---
 
 ## 📦 Profile Analysis
+
 <p align="center">
       <a href="https://github.com/sazzadse">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazzadse&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
