@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Md. Sazzad Hossain. Nice to see you.👋</h2>
-<h4 align="center">Experienced Full Stack .NET Developer, passionate about building innovative and efficient solutions for digital transformation.</h4>
+<h4 align="center">Experienced .NET Full-Stack Developer passionate about building scalable enterprise applications and driving digital transformation.</h4>
 <br />
 <div align="center">
 
@@ -53,15 +53,6 @@
 </ul>
 
 
-
-
-# Hi, I'm Sazzad Hossain 👋
-
-💻 Senior Software Engineer | .NET Full-Stack Developer  
-📍 Bangladesh  
-🚀 7+ years of experience in building enterprise-grade ERP and business applications.
-
----
 
 ## 👨‍💻 About Me
 
